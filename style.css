@@ -1,0 +1,48 @@
+body{
+    background-color: #3B4252;
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+}
+header{
+    background-color: beige;
+    width: 600px;
+    height: 100px;
+}
+
+nav{
+    margin-top: 10px;
+    background-color: aquamarine;
+    width: 600px;
+    height: 100px;
+}
+
+article{
+    background: red;
+    width: 400px;
+    height: 600px;
+    margin-top: 10px;
+}
+
+section{
+    background-color: blueviolet;
+    width: 200px;
+    height: 100px;
+}
+
+aside{
+    background-color: blue;
+    width: 200px;
+    height: 600px;
+}
+
+footer{
+    margin-top: 10px;
+    background-color: black;
+    width: 600px;
+    height: 100px;
+}
+
